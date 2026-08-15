@@ -1,4 +1,4 @@
-nomreb = int(input("Enter your birth year: ")
+nomreb = int(input("Enter your birth year: "))
 blargh = "Your Chinese Zodiac Sign is: "
 rat = "Rat (鼠 / Shǔ)"
 ox = "Ox (牛 / Niú)"
