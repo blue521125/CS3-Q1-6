@@ -1,2 +1,4 @@
 # CS3-Q1-6
-with Keon and Regi
+Philip Excalibur P. Fullante
+9-Samat
+
